@@ -1,8 +1,9 @@
 {
   "name": "aspax-styl-handler",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Plugin enabling ASPAX to handle Stylus files.",
   "repository": "git://github.com/icflorescu/aspax-styl-handler",
+  "homepage": "http://aspax.github.io",
   "keywords": [
     "aspax",
     "stylus",
