@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "iced-coffee-script": "~1.6.3-j",
-    "stylus": "~0.41.3",
-    "nib": "~1.0.1"
+    "stylus": "~0.42.0",
+    "nib": "~1.0.2"
   }
 }
