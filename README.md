@@ -1,5 +1,4 @@
 ## What's this?
-
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [Stylus](http://learnboost.github.io/stylus) files.
 
 ## Installation
