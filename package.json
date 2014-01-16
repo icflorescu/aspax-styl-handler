@@ -1,24 +1,36 @@
 {
   "name": "aspax-styl-handler",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "Plugin enabling ASPAX to handle Stylus files.",
-  "repository": "git://github.com/icflorescu/aspax-styl-handler",
-  "homepage": "http://aspax.github.io",
   "keywords": [
     "aspax",
     "stylus",
     "css",
     "compilation"
   ],
+  "dependencies": {
+    "iced-coffee-script": "~1.6.3-j",
+    "stylus": "~0.42.0",
+    "nib": "~1.0.2"
+  },
+  "engines": {
+    "node": ">=0.8.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/aspax-styl-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/icflorescu/aspax-styl-handler/issues"
+  },
   "author": {
     "name": "Ionut-Cristian Florescu",
     "email": "ionut.florescu@gmail.com",
     "url": "https://coderwall.com/icflorescu"
   },
-  "license": "MIT",
-  "dependencies": {
-    "iced-coffee-script": "~1.6.3-j",
-    "stylus": "~0.42.0",
-    "nib": "~1.0.2"
-  }
+  "contributors": [{
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com"
+  }],
+  "license": "MIT"
 }
