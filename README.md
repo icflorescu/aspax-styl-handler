@@ -1,4 +1,6 @@
 ## What's this?
+[![NPM version](https://badge.fury.io/js/aspax-styl-handler.png)](http://badge.fury.io/js/aspax-styl-handler)
+
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [Stylus](http://learnboost.github.io/stylus) files.
 
 ## Installation
