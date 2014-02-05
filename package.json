@@ -1,6 +1,6 @@
 {
   "name": "aspax-styl-handler",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Plugin enabling ASPAX to handle Stylus files.",
   "keywords": [
     "aspax",
