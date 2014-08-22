@@ -1,6 +1,6 @@
 {
   "name": "aspax-styl-handler",
-  "version": "0.8.9",
+  "version": "0.9.0",
   "description": "Plugin enabling ASPAX to handle Stylus files.",
   "keywords": [
     "aspax",
@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "iced-coffee-script": "^1.7.1-f",
-    "stylus": "~0.47.3",
+    "stylus": "~0.48.1",
     "nib": "~1.0.3"
   },
   "engines": {
