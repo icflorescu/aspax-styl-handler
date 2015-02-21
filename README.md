@@ -1,6 +1,8 @@
 ## What's this?
-[![NPM version](https://badge.fury.io/js/aspax-styl-handler.png)](http://badge.fury.io/js/aspax-styl-handler)
-[![Dependency Status](https://david-dm.org/icflorescu/aspax-styl-handler.png)](https://david-dm.org/icflorescu/aspax-styl-handler)
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][david-image]][david-url]
+[![License][license-image]][license-url]
+[![Downloads][downloads-image]][downloads-url]
 
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [Stylus](http://learnboost.github.io/stylus) files.
 
@@ -67,3 +69,11 @@ If you find this piece of software useful, please [tweet about ASPAX](http://twi
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
 
+[npm-image]: https://img.shields.io/npm/v/aspax-styl-handler.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/aspax-styl-handler
+[david-image]: http://img.shields.io/david/icflorescu/aspax-styl-handler.svg?style=flat-square
+[david-url]: https://david-dm.org/icflorescu/aspax-styl-handler
+[license-image]: http://img.shields.io/npm/l/aspax-styl-handler.svg?style=flat-square
+[license-url]: LICENSE
+[downloads-image]: http://img.shields.io/npm/dm/aspax-styl-handler.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/aspax-styl-handler
